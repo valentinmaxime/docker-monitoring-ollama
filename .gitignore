@@ -1,0 +1,5 @@
+# Ignore Docker volumes and other temporary files
+volumes/
+prometheus-data/
+grafana-storage/
+*.log
