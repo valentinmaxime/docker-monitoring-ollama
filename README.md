@@ -9,7 +9,7 @@ This project provides a Docker-based monitoring and application stack for the Ol
 
 ## Project Structure
 
-Organize your files in a directory structure that separates configuration files, Docker assets, and Grafana dashboards. Here’s a recommended layout:
+Directory structure that separates configuration files, Docker assets, and Grafana dashboards :
 
 ```plaintext
 docker-monitoring-ollama/
